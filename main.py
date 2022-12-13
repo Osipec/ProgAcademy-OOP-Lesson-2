@@ -26,14 +26,13 @@ class Group():
         self.__group = []
 
     def add_visitor(self, student: Student):
-        try:
-            if len(self.__group) >= self.max_stud:
-                raise MaxStudError("Maximum of students reached", len(self.__group))
-        except MaxStudError as err:
-            print(err)
-        else:
-            if student not in self.__group:
-                self.__group.append(student)
+        if not isinstance(student, Student):
+            raise TypeError('Student must be instance of class "Student"')
+        if len(self.__group) >= self.max_stud:
+            raise MaxStudError("Maximum of students reached", len(self.__group))
+        if student in self.__group:
+            raise StudInGroupError("Student already in group", student)
+        self.__group.append(student)
 
     def remove_visitor(self, student: Student):
         if student in self.__group:
@@ -56,7 +55,16 @@ class MaxStudError(Exception):
         self.value = value
 
     def __str__(self):
-        return f'MaxStudError: {self.message}, {self.value}'
+        return f'{self.message}, {self.value}'
+
+class StudInGroupError(Exception):
+
+    def __init__(self, message, student):
+        self.message = message
+        self.student = student
+
+    def __str__(self):
+        return f'{self.message}, {self.student}'
 
 
 group = Group('Python', 3)
@@ -68,8 +76,8 @@ stud_4 = Student('Serhiy', 'Voevoda', 42)
 
 group.add_visitor(stud_1)
 group.add_visitor(stud_2)
-group.add_visitor(stud_3)
-group.add_visitor(stud_4)
+# group.add_visitor(stud_3)
+# group.add_visitor(stud_4)
 
 # group.remove_visitor(stud_4)
 # group.remove_visitor(stud_3)
