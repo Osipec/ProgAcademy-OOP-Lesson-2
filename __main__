@@ -1,0 +1,27 @@
+2022-12-13 13:50:45,524 - __main__ - WARNING - Started loggin to console and file
+2022-12-13 13:50:45,524 - __main__ - INFO - Student added
+2022-12-13 13:50:45,524 - __main__ - INFO - Student added
+2022-12-13 13:51:20,235 - __main__ - WARNING - Started loggin to console and file
+2022-12-13 13:51:20,235 - __main__ - INFO - Student added
+2022-12-13 13:51:20,235 - __main__ - INFO - Student added
+2022-12-13 13:51:20,236 - __main__ - INFO - Student added
+2022-12-13 13:53:48,333 - __main__ - WARNING - Started loggin to console and file
+2022-12-13 13:53:48,334 - __main__ - INFO - Student added
+2022-12-13 13:53:48,334 - __main__ - INFO - Student added
+2022-12-13 13:53:48,334 - __main__ - WARNING - <class '__main__.StudInGroupError'>
+2022-12-13 13:54:56,163 - __main__ - WARNING - Started loggin to console and file
+2022-12-13 13:54:56,164 - __main__ - INFO - Student added
+2022-12-13 13:54:56,164 - __main__ - INFO - Student added
+2022-12-13 13:55:35,109 - __main__ - WARNING - Started loggin to console and file
+2022-12-13 13:55:35,109 - __main__ - INFO - Student added
+2022-12-13 13:55:35,109 - __main__ - INFO - Student added
+2022-12-13 13:55:35,109 - __main__ - WARNING - Student already in group, Mykola Slobodyanik, ID: 32
+2022-12-13 13:57:16,362 - __main__ - WARNING - Started loggin to console and file
+2022-12-13 13:57:16,362 - __main__ - INFO - Student added
+2022-12-13 13:57:16,362 - __main__ - INFO - Student added
+2022-12-13 13:57:16,362 - __main__ - WARNING - Student already in group, Mykola Slobodyanik, ID: 32
+2022-12-13 13:57:51,884 - __main__ - WARNING - Started loggin to console and file
+2022-12-13 13:57:51,885 - __main__ - INFO - Student added
+2022-12-13 13:57:51,885 - __main__ - INFO - Student added
+2022-12-13 13:57:51,885 - __main__ - INFO - Student added
+2022-12-13 13:57:51,885 - __main__ - WARNING - Logging finished
