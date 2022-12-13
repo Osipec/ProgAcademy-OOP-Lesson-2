@@ -47,6 +47,7 @@ class Group():
         if not isinstance(student, Student):
             raise TypeError('Student must be instance of class "Student"')
         if len(self.__group) >= self.max_stud:
+            logger.warning(MaxStudError("Maximum of students reached", len(self.__group)))
             raise MaxStudError("Maximum of students reached", len(self.__group))
         if student in self.__group:
             logger.warning(StudInGroupError("Student already in group", student))

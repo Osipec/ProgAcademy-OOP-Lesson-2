@@ -25,3 +25,18 @@
 2022-12-13 13:57:51,885 - __main__ - INFO - Student added
 2022-12-13 13:57:51,885 - __main__ - INFO - Student added
 2022-12-13 13:57:51,885 - __main__ - WARNING - Logging finished
+2022-12-13 14:00:35,518 - __main__ - WARNING - Started loggin to console and file
+2022-12-13 14:00:35,518 - __main__ - INFO - Student added
+2022-12-13 14:00:35,518 - __main__ - INFO - Student added
+2022-12-13 14:00:35,518 - __main__ - INFO - Student added
+2022-12-13 14:00:35,518 - __main__ - WARNING - Logging finished
+2022-12-13 14:00:43,493 - __main__ - WARNING - Started loggin to console and file
+2022-12-13 14:00:43,494 - __main__ - INFO - Student added
+2022-12-13 14:00:43,494 - __main__ - INFO - Student added
+2022-12-13 14:00:43,494 - __main__ - INFO - Student added
+2022-12-13 14:00:43,494 - __main__ - WARNING - Logging finished
+2022-12-13 14:00:58,766 - __main__ - WARNING - Started loggin to console and file
+2022-12-13 14:00:58,766 - __main__ - INFO - Student added
+2022-12-13 14:00:58,766 - __main__ - INFO - Student added
+2022-12-13 14:00:58,766 - __main__ - INFO - Student added
+2022-12-13 14:00:58,766 - __main__ - WARNING - Maximum of students reached, 3
