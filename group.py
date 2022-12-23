@@ -2,6 +2,7 @@ from student import Student
 from exceptions import *
 from logger import *
 
+
 class Group():
     def __init__(self, course: str, max_stud):
         self.course = course
@@ -26,7 +27,7 @@ class Group():
 
     def remove_visitor(self, student: Student):
         """
-        This method is used to remove stydent from the group.Student should be an instance of "Student" Class
+        This method is used to remove student from the group.Student should be an instance of "Student" Class
         """
         if student in self.__group:
             self.__group.remove(student)
@@ -40,3 +41,26 @@ class Group():
 
     def __str__(self):
         return f'{self.course}: \n' + '\n'.join(map(str, self.__group))
+
+    def __getitem__(self, item):
+        if not isinstance(item, int | slice):
+            raise TypeError()
+        return self.__group[item]
+
+    def __len__(self):
+        return len(self.__group)
+
+    def __iter__(self):
+        return GroupIter(self.__group)
+
+
+class GroupIter:
+    def __init__(self, group: list):
+        self.group = group
+        self.index = 0
+
+    def __next__(self):
+        if self.index < len(self.group):
+            self.index += 1
+            return self.group[self.index - 1]
+        raise StopIteration

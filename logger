@@ -1,0 +1,454 @@
+2022-12-15 12:31:21,096 - logger - WARNING - Started loggin to console and file
+2022-12-15 12:31:21,096 - logger - INFO - Student added
+2022-12-15 12:31:21,096 - logger - INFO - Student added
+2022-12-15 12:31:21,096 - logger - INFO - Student added
+2022-12-15 12:31:21,096 - logger - WARNING - Logging finished
+2022-12-23 18:40:36,224 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:40:36,225 - logger - INFO - Student added
+2022-12-23 18:40:36,225 - logger - INFO - Student added
+2022-12-23 18:40:36,225 - logger - INFO - Student added
+2022-12-23 18:40:36,225 - logger - WARNING - Logging finished
+2022-12-23 18:41:17,145 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:41:17,145 - logger - INFO - Student added
+2022-12-23 18:41:17,146 - logger - INFO - Student added
+2022-12-23 18:41:17,146 - logger - INFO - Student added
+2022-12-23 18:41:17,146 - logger - WARNING - Logging finished
+2022-12-23 18:41:36,784 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:41:36,784 - logger - INFO - Student added
+2022-12-23 18:41:36,784 - logger - INFO - Student added
+2022-12-23 18:41:36,784 - logger - INFO - Student added
+2022-12-23 18:41:36,784 - logger - WARNING - Maximum of students reached, 3
+2022-12-23 18:41:46,356 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:41:46,356 - logger - INFO - Student added
+2022-12-23 18:41:46,356 - logger - INFO - Student added
+2022-12-23 18:41:46,356 - logger - INFO - Student added
+2022-12-23 18:41:46,356 - logger - INFO - Student added
+2022-12-23 18:41:46,357 - logger - WARNING - Logging finished
+2022-12-23 18:42:25,549 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:42:25,549 - logger - INFO - Student added
+2022-12-23 18:42:25,549 - logger - INFO - Student added
+2022-12-23 18:42:25,549 - logger - INFO - Student added
+2022-12-23 18:42:25,549 - logger - INFO - Student added
+2022-12-23 18:42:25,549 - logger - WARNING - Logging finished
+2022-12-23 18:43:04,159 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:43:04,159 - logger - INFO - Student added
+2022-12-23 18:43:04,159 - logger - INFO - Student added
+2022-12-23 18:43:04,159 - logger - INFO - Student added
+2022-12-23 18:43:04,159 - logger - INFO - Student added
+2022-12-23 18:43:04,159 - logger - WARNING - Logging finished
+2022-12-23 18:43:35,552 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:43:35,552 - logger - INFO - Student added
+2022-12-23 18:43:35,552 - logger - INFO - Student added
+2022-12-23 18:43:35,552 - logger - INFO - Student added
+2022-12-23 18:43:35,552 - logger - INFO - Student added
+2022-12-23 18:43:35,552 - logger - WARNING - Logging finished
+2022-12-23 18:46:04,915 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:46:04,915 - logger - INFO - Student added
+2022-12-23 18:46:04,915 - logger - INFO - Student added
+2022-12-23 18:46:04,915 - logger - INFO - Student added
+2022-12-23 18:46:04,916 - logger - INFO - Student added
+2022-12-23 18:46:04,916 - logger - WARNING - Logging finished
+2022-12-23 18:46:19,607 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:46:19,607 - logger - INFO - Student added
+2022-12-23 18:46:19,607 - logger - INFO - Student added
+2022-12-23 18:46:19,607 - logger - INFO - Student added
+2022-12-23 18:46:19,607 - logger - INFO - Student added
+2022-12-23 18:46:19,607 - logger - WARNING - Logging finished
+2022-12-23 18:46:48,524 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:46:48,524 - logger - INFO - Student added
+2022-12-23 18:46:48,524 - logger - INFO - Student added
+2022-12-23 18:46:48,524 - logger - INFO - Student added
+2022-12-23 18:46:48,524 - logger - INFO - Student added
+2022-12-23 18:46:48,525 - logger - WARNING - Logging finished
+2022-12-23 18:47:26,770 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:47:26,770 - logger - INFO - Student added
+2022-12-23 18:47:26,770 - logger - INFO - Student added
+2022-12-23 18:47:26,770 - logger - INFO - Student added
+2022-12-23 18:47:26,770 - logger - INFO - Student added
+2022-12-23 18:47:26,770 - logger - WARNING - Logging finished
+2022-12-23 18:48:05,542 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:48:05,542 - logger - INFO - Student added
+2022-12-23 18:48:05,542 - logger - INFO - Student added
+2022-12-23 18:48:05,542 - logger - INFO - Student added
+2022-12-23 18:48:05,542 - logger - INFO - Student added
+2022-12-23 18:48:05,542 - logger - WARNING - Logging finished
+2022-12-23 18:49:07,156 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:49:07,156 - logger - INFO - Student added
+2022-12-23 18:49:07,157 - logger - INFO - Student added
+2022-12-23 18:49:07,157 - logger - INFO - Student added
+2022-12-23 18:49:07,157 - logger - INFO - Student added
+2022-12-23 18:49:07,157 - logger - WARNING - Logging finished
+2022-12-23 18:51:50,823 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:51:50,823 - logger - INFO - Student added
+2022-12-23 18:51:50,824 - logger - INFO - Student added
+2022-12-23 18:51:50,824 - logger - INFO - Student added
+2022-12-23 18:51:50,824 - logger - INFO - Student added
+2022-12-23 18:51:50,824 - logger - WARNING - Logging finished
+2022-12-23 18:52:02,549 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:52:02,550 - logger - INFO - Student added
+2022-12-23 18:52:02,550 - logger - INFO - Student added
+2022-12-23 18:52:02,550 - logger - INFO - Student added
+2022-12-23 18:52:02,550 - logger - INFO - Student added
+2022-12-23 18:52:02,550 - logger - WARNING - Logging finished
+2022-12-23 18:52:11,053 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:52:11,053 - logger - INFO - Student added
+2022-12-23 18:52:11,053 - logger - INFO - Student added
+2022-12-23 18:52:11,053 - logger - INFO - Student added
+2022-12-23 18:52:11,053 - logger - INFO - Student added
+2022-12-23 18:52:11,053 - logger - WARNING - Logging finished
+2022-12-23 18:52:16,618 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:52:16,618 - logger - INFO - Student added
+2022-12-23 18:52:16,618 - logger - INFO - Student added
+2022-12-23 18:52:16,618 - logger - INFO - Student added
+2022-12-23 18:52:16,618 - logger - INFO - Student added
+2022-12-23 18:52:16,619 - logger - WARNING - Logging finished
+2022-12-23 18:52:22,395 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:52:22,395 - logger - INFO - Student added
+2022-12-23 18:52:22,395 - logger - INFO - Student added
+2022-12-23 18:52:22,395 - logger - INFO - Student added
+2022-12-23 18:52:22,395 - logger - INFO - Student added
+2022-12-23 18:52:22,395 - logger - WARNING - Logging finished
+2022-12-23 18:52:32,769 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:52:32,769 - logger - INFO - Student added
+2022-12-23 18:52:32,769 - logger - INFO - Student added
+2022-12-23 18:52:32,769 - logger - INFO - Student added
+2022-12-23 18:52:32,769 - logger - INFO - Student added
+2022-12-23 18:52:32,769 - logger - WARNING - Logging finished
+2022-12-23 18:54:00,269 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:54:00,269 - logger - INFO - Student added
+2022-12-23 18:54:00,270 - logger - INFO - Student added
+2022-12-23 18:54:00,270 - logger - INFO - Student added
+2022-12-23 18:54:00,270 - logger - INFO - Student added
+2022-12-23 18:54:00,270 - logger - WARNING - Logging finished
+2022-12-23 18:54:13,085 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:54:13,086 - logger - INFO - Student added
+2022-12-23 18:54:13,086 - logger - INFO - Student added
+2022-12-23 18:54:13,086 - logger - INFO - Student added
+2022-12-23 18:54:13,086 - logger - INFO - Student added
+2022-12-23 18:54:13,086 - logger - WARNING - Logging finished
+2022-12-23 18:54:23,494 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:54:23,494 - logger - INFO - Student added
+2022-12-23 18:54:23,494 - logger - INFO - Student added
+2022-12-23 18:54:23,494 - logger - INFO - Student added
+2022-12-23 18:54:23,494 - logger - INFO - Student added
+2022-12-23 18:54:23,495 - logger - WARNING - Logging finished
+2022-12-23 18:54:32,028 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:54:32,028 - logger - INFO - Student added
+2022-12-23 18:54:32,029 - logger - INFO - Student added
+2022-12-23 18:54:32,029 - logger - INFO - Student added
+2022-12-23 18:54:32,029 - logger - INFO - Student added
+2022-12-23 18:54:32,029 - logger - WARNING - Logging finished
+2022-12-23 18:54:44,924 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:54:44,924 - logger - INFO - Student added
+2022-12-23 18:54:44,924 - logger - INFO - Student added
+2022-12-23 18:54:44,924 - logger - INFO - Student added
+2022-12-23 18:54:44,924 - logger - INFO - Student added
+2022-12-23 18:54:44,925 - logger - WARNING - Logging finished
+2022-12-23 18:54:55,567 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:54:55,567 - logger - INFO - Student added
+2022-12-23 18:54:55,567 - logger - INFO - Student added
+2022-12-23 18:54:55,567 - logger - INFO - Student added
+2022-12-23 18:54:55,567 - logger - INFO - Student added
+2022-12-23 18:54:55,567 - logger - WARNING - Logging finished
+2022-12-23 18:55:04,299 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:55:04,299 - logger - INFO - Student added
+2022-12-23 18:55:04,299 - logger - INFO - Student added
+2022-12-23 18:55:04,299 - logger - INFO - Student added
+2022-12-23 18:55:04,299 - logger - INFO - Student added
+2022-12-23 18:55:04,299 - logger - WARNING - Logging finished
+2022-12-23 18:55:18,396 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:55:18,397 - logger - INFO - Student added
+2022-12-23 18:55:18,397 - logger - INFO - Student added
+2022-12-23 18:55:18,397 - logger - INFO - Student added
+2022-12-23 18:55:18,397 - logger - INFO - Student added
+2022-12-23 18:55:18,397 - logger - WARNING - Logging finished
+2022-12-23 18:55:25,255 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:55:25,255 - logger - INFO - Student added
+2022-12-23 18:55:25,255 - logger - INFO - Student added
+2022-12-23 18:55:25,255 - logger - INFO - Student added
+2022-12-23 18:55:25,255 - logger - INFO - Student added
+2022-12-23 18:55:25,255 - logger - WARNING - Logging finished
+2022-12-23 18:55:34,583 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:55:34,583 - logger - INFO - Student added
+2022-12-23 18:55:34,583 - logger - INFO - Student added
+2022-12-23 18:55:34,583 - logger - INFO - Student added
+2022-12-23 18:55:34,583 - logger - INFO - Student added
+2022-12-23 18:55:34,584 - logger - WARNING - Logging finished
+2022-12-23 18:55:58,535 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:55:58,535 - logger - INFO - Student added
+2022-12-23 18:55:58,535 - logger - INFO - Student added
+2022-12-23 18:55:58,535 - logger - INFO - Student added
+2022-12-23 18:55:58,535 - logger - INFO - Student added
+2022-12-23 18:55:58,536 - logger - WARNING - Logging finished
+2022-12-23 18:56:05,873 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:56:05,874 - logger - INFO - Student added
+2022-12-23 18:56:05,874 - logger - INFO - Student added
+2022-12-23 18:56:05,874 - logger - INFO - Student added
+2022-12-23 18:56:05,874 - logger - INFO - Student added
+2022-12-23 18:56:05,874 - logger - WARNING - Logging finished
+2022-12-23 18:56:11,730 - logger - WARNING - Started loggin to console and file
+2022-12-23 18:56:11,731 - logger - INFO - Student added
+2022-12-23 18:56:11,731 - logger - INFO - Student added
+2022-12-23 18:56:11,731 - logger - INFO - Student added
+2022-12-23 18:56:11,731 - logger - INFO - Student added
+2022-12-23 18:56:11,731 - logger - WARNING - Logging finished
+2022-12-23 19:01:29,704 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:01:29,704 - logger - INFO - Student added
+2022-12-23 19:01:29,704 - logger - INFO - Student added
+2022-12-23 19:01:29,704 - logger - INFO - Student added
+2022-12-23 19:01:29,704 - logger - INFO - Student added
+2022-12-23 19:01:29,704 - logger - WARNING - Logging finished
+2022-12-23 19:01:37,618 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:01:37,618 - logger - INFO - Student added
+2022-12-23 19:01:37,618 - logger - INFO - Student added
+2022-12-23 19:01:37,618 - logger - INFO - Student added
+2022-12-23 19:01:37,618 - logger - INFO - Student added
+2022-12-23 19:01:37,618 - logger - WARNING - Logging finished
+2022-12-23 19:03:10,896 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:03:10,896 - logger - INFO - Student added
+2022-12-23 19:03:10,896 - logger - INFO - Student added
+2022-12-23 19:03:10,896 - logger - INFO - Student added
+2022-12-23 19:03:10,896 - logger - INFO - Student added
+2022-12-23 19:03:10,896 - logger - WARNING - Logging finished
+2022-12-23 19:05:31,000 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:05:31,000 - logger - INFO - Student added
+2022-12-23 19:05:31,000 - logger - INFO - Student added
+2022-12-23 19:05:31,001 - logger - INFO - Student added
+2022-12-23 19:05:31,001 - logger - INFO - Student added
+2022-12-23 19:05:31,001 - logger - WARNING - Logging finished
+2022-12-23 19:05:55,531 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:05:55,532 - logger - INFO - Student added
+2022-12-23 19:05:55,532 - logger - INFO - Student added
+2022-12-23 19:05:55,532 - logger - INFO - Student added
+2022-12-23 19:05:55,532 - logger - INFO - Student added
+2022-12-23 19:05:55,532 - logger - WARNING - Logging finished
+2022-12-23 19:06:11,036 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:06:11,036 - logger - INFO - Student added
+2022-12-23 19:06:11,036 - logger - INFO - Student added
+2022-12-23 19:06:11,036 - logger - INFO - Student added
+2022-12-23 19:06:11,036 - logger - INFO - Student added
+2022-12-23 19:06:11,037 - logger - WARNING - Logging finished
+2022-12-23 19:06:18,080 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:06:18,080 - logger - INFO - Student added
+2022-12-23 19:06:18,080 - logger - INFO - Student added
+2022-12-23 19:06:18,080 - logger - INFO - Student added
+2022-12-23 19:06:18,080 - logger - INFO - Student added
+2022-12-23 19:06:18,080 - logger - WARNING - Logging finished
+2022-12-23 19:08:20,650 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:08:20,650 - logger - INFO - Student added
+2022-12-23 19:08:20,651 - logger - INFO - Student added
+2022-12-23 19:08:20,651 - logger - INFO - Student added
+2022-12-23 19:08:20,651 - logger - INFO - Student added
+2022-12-23 19:08:20,651 - logger - WARNING - Logging finished
+2022-12-23 19:12:52,731 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:12:52,731 - logger - INFO - Student added
+2022-12-23 19:12:52,731 - logger - INFO - Student added
+2022-12-23 19:12:52,731 - logger - INFO - Student added
+2022-12-23 19:12:52,731 - logger - INFO - Student added
+2022-12-23 19:12:52,731 - logger - WARNING - Logging finished
+2022-12-23 19:13:18,295 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:13:18,296 - logger - INFO - Student added
+2022-12-23 19:13:18,296 - logger - INFO - Student added
+2022-12-23 19:13:18,296 - logger - INFO - Student added
+2022-12-23 19:13:18,296 - logger - INFO - Student added
+2022-12-23 19:13:18,296 - logger - WARNING - Logging finished
+2022-12-23 19:13:37,044 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:13:37,044 - logger - INFO - Student added
+2022-12-23 19:13:37,044 - logger - INFO - Student added
+2022-12-23 19:13:37,044 - logger - INFO - Student added
+2022-12-23 19:13:37,046 - logger - INFO - Student added
+2022-12-23 19:13:37,046 - logger - WARNING - Logging finished
+2022-12-23 19:13:53,904 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:13:53,904 - logger - INFO - Student added
+2022-12-23 19:13:53,904 - logger - INFO - Student added
+2022-12-23 19:13:53,904 - logger - INFO - Student added
+2022-12-23 19:13:53,904 - logger - INFO - Student added
+2022-12-23 19:13:53,904 - logger - WARNING - Logging finished
+2022-12-23 19:14:01,000 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:14:01,000 - logger - INFO - Student added
+2022-12-23 19:14:01,000 - logger - INFO - Student added
+2022-12-23 19:14:01,000 - logger - INFO - Student added
+2022-12-23 19:14:01,000 - logger - INFO - Student added
+2022-12-23 19:14:01,000 - logger - WARNING - Logging finished
+2022-12-23 19:14:06,449 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:14:06,449 - logger - INFO - Student added
+2022-12-23 19:14:06,449 - logger - INFO - Student added
+2022-12-23 19:14:06,449 - logger - INFO - Student added
+2022-12-23 19:14:06,449 - logger - INFO - Student added
+2022-12-23 19:14:06,449 - logger - WARNING - Logging finished
+2022-12-23 19:14:35,800 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:14:35,801 - logger - INFO - Student added
+2022-12-23 19:14:35,801 - logger - INFO - Student added
+2022-12-23 19:14:35,801 - logger - INFO - Student added
+2022-12-23 19:14:35,801 - logger - INFO - Student added
+2022-12-23 19:14:35,801 - logger - WARNING - Logging finished
+2022-12-23 19:14:40,622 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:14:40,622 - logger - INFO - Student added
+2022-12-23 19:14:40,622 - logger - INFO - Student added
+2022-12-23 19:14:40,622 - logger - INFO - Student added
+2022-12-23 19:14:40,622 - logger - INFO - Student added
+2022-12-23 19:14:40,622 - logger - WARNING - Logging finished
+2022-12-23 19:14:50,363 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:14:50,363 - logger - INFO - Student added
+2022-12-23 19:14:50,363 - logger - INFO - Student added
+2022-12-23 19:14:50,363 - logger - INFO - Student added
+2022-12-23 19:14:50,363 - logger - INFO - Student added
+2022-12-23 19:14:50,363 - logger - WARNING - Logging finished
+2022-12-23 19:16:57,346 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:16:57,346 - logger - INFO - Student added
+2022-12-23 19:16:57,346 - logger - INFO - Student added
+2022-12-23 19:16:57,347 - logger - INFO - Student added
+2022-12-23 19:16:57,347 - logger - INFO - Student added
+2022-12-23 19:17:10,668 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:17:10,668 - logger - INFO - Student added
+2022-12-23 19:17:10,668 - logger - INFO - Student added
+2022-12-23 19:17:10,668 - logger - INFO - Student added
+2022-12-23 19:17:10,668 - logger - INFO - Student added
+2022-12-23 19:17:42,212 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:17:42,212 - logger - INFO - Student added
+2022-12-23 19:17:42,212 - logger - INFO - Student added
+2022-12-23 19:17:42,212 - logger - INFO - Student added
+2022-12-23 19:17:42,213 - logger - INFO - Student added
+2022-12-23 19:17:42,213 - logger - WARNING - Logging finished
+2022-12-23 19:17:59,064 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:17:59,064 - logger - INFO - Student added
+2022-12-23 19:17:59,064 - logger - INFO - Student added
+2022-12-23 19:17:59,064 - logger - INFO - Student added
+2022-12-23 19:17:59,065 - logger - INFO - Student added
+2022-12-23 19:17:59,065 - logger - WARNING - Logging finished
+2022-12-23 19:18:05,895 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:18:05,895 - logger - INFO - Student added
+2022-12-23 19:18:05,895 - logger - INFO - Student added
+2022-12-23 19:18:05,895 - logger - INFO - Student added
+2022-12-23 19:18:05,895 - logger - INFO - Student added
+2022-12-23 19:18:05,895 - logger - WARNING - Logging finished
+2022-12-23 19:18:18,896 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:18:18,897 - logger - INFO - Student added
+2022-12-23 19:18:18,897 - logger - INFO - Student added
+2022-12-23 19:18:18,897 - logger - INFO - Student added
+2022-12-23 19:18:18,897 - logger - INFO - Student added
+2022-12-23 19:18:18,897 - logger - WARNING - Logging finished
+2022-12-23 19:18:36,784 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:18:36,784 - logger - INFO - Student added
+2022-12-23 19:18:36,784 - logger - INFO - Student added
+2022-12-23 19:18:36,784 - logger - INFO - Student added
+2022-12-23 19:18:36,784 - logger - INFO - Student added
+2022-12-23 19:18:46,813 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:18:46,813 - logger - INFO - Student added
+2022-12-23 19:18:46,813 - logger - INFO - Student added
+2022-12-23 19:18:46,813 - logger - INFO - Student added
+2022-12-23 19:18:46,813 - logger - INFO - Student added
+2022-12-23 19:19:05,793 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:19:05,793 - logger - INFO - Student added
+2022-12-23 19:19:05,793 - logger - INFO - Student added
+2022-12-23 19:19:05,793 - logger - INFO - Student added
+2022-12-23 19:19:05,793 - logger - INFO - Student added
+2022-12-23 19:19:05,793 - logger - WARNING - Logging finished
+2022-12-23 19:19:33,682 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:19:33,683 - logger - INFO - Student added
+2022-12-23 19:19:33,683 - logger - INFO - Student added
+2022-12-23 19:19:33,683 - logger - INFO - Student added
+2022-12-23 19:19:33,683 - logger - INFO - Student added
+2022-12-23 19:19:33,683 - logger - WARNING - Logging finished
+2022-12-23 19:19:42,431 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:19:42,431 - logger - INFO - Student added
+2022-12-23 19:19:42,431 - logger - INFO - Student added
+2022-12-23 19:19:42,431 - logger - INFO - Student added
+2022-12-23 19:19:42,431 - logger - INFO - Student added
+2022-12-23 19:19:42,431 - logger - WARNING - Logging finished
+2022-12-23 19:19:48,042 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:19:48,042 - logger - INFO - Student added
+2022-12-23 19:19:48,042 - logger - INFO - Student added
+2022-12-23 19:19:48,042 - logger - INFO - Student added
+2022-12-23 19:19:48,042 - logger - INFO - Student added
+2022-12-23 19:19:48,042 - logger - WARNING - Logging finished
+2022-12-23 19:20:26,817 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:20:26,817 - logger - INFO - Student added
+2022-12-23 19:20:26,817 - logger - INFO - Student added
+2022-12-23 19:20:26,817 - logger - INFO - Student added
+2022-12-23 19:20:26,817 - logger - INFO - Student added
+2022-12-23 19:20:26,817 - logger - WARNING - Logging finished
+2022-12-23 19:20:40,099 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:20:40,099 - logger - INFO - Student added
+2022-12-23 19:20:40,099 - logger - INFO - Student added
+2022-12-23 19:20:40,099 - logger - INFO - Student added
+2022-12-23 19:20:40,100 - logger - INFO - Student added
+2022-12-23 19:20:40,100 - logger - WARNING - Logging finished
+2022-12-23 19:20:46,231 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:20:46,232 - logger - INFO - Student added
+2022-12-23 19:20:46,232 - logger - INFO - Student added
+2022-12-23 19:20:46,232 - logger - INFO - Student added
+2022-12-23 19:20:46,232 - logger - INFO - Student added
+2022-12-23 19:20:46,232 - logger - WARNING - Logging finished
+2022-12-23 19:21:07,573 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:21:07,573 - logger - INFO - Student added
+2022-12-23 19:21:07,573 - logger - INFO - Student added
+2022-12-23 19:21:07,573 - logger - INFO - Student added
+2022-12-23 19:21:07,573 - logger - INFO - Student added
+2022-12-23 19:21:07,573 - logger - WARNING - Logging finished
+2022-12-23 19:21:14,391 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:21:14,391 - logger - INFO - Student added
+2022-12-23 19:21:14,391 - logger - INFO - Student added
+2022-12-23 19:21:14,391 - logger - INFO - Student added
+2022-12-23 19:21:14,391 - logger - INFO - Student added
+2022-12-23 19:21:14,391 - logger - WARNING - Logging finished
+2022-12-23 19:21:21,524 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:21:21,524 - logger - INFO - Student added
+2022-12-23 19:21:21,524 - logger - INFO - Student added
+2022-12-23 19:21:21,524 - logger - INFO - Student added
+2022-12-23 19:21:21,524 - logger - INFO - Student added
+2022-12-23 19:21:21,525 - logger - WARNING - Logging finished
+2022-12-23 19:22:16,458 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:22:16,458 - logger - INFO - Student added
+2022-12-23 19:22:16,458 - logger - INFO - Student added
+2022-12-23 19:22:16,458 - logger - INFO - Student added
+2022-12-23 19:22:16,458 - logger - INFO - Student added
+2022-12-23 19:22:16,458 - logger - WARNING - Logging finished
+2022-12-23 19:22:24,811 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:22:24,811 - logger - INFO - Student added
+2022-12-23 19:22:24,812 - logger - INFO - Student added
+2022-12-23 19:22:24,812 - logger - INFO - Student added
+2022-12-23 19:22:24,812 - logger - INFO - Student added
+2022-12-23 19:22:24,812 - logger - WARNING - Logging finished
+2022-12-23 19:22:50,442 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:22:50,442 - logger - INFO - Student added
+2022-12-23 19:22:50,442 - logger - INFO - Student added
+2022-12-23 19:22:50,442 - logger - INFO - Student added
+2022-12-23 19:22:50,442 - logger - INFO - Student added
+2022-12-23 19:22:50,442 - logger - WARNING - Logging finished
+2022-12-23 19:23:01,962 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:23:01,962 - logger - INFO - Student added
+2022-12-23 19:23:01,962 - logger - INFO - Student added
+2022-12-23 19:23:01,962 - logger - INFO - Student added
+2022-12-23 19:23:01,962 - logger - INFO - Student added
+2022-12-23 19:23:01,962 - logger - WARNING - Logging finished
+2022-12-23 19:27:25,303 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:27:25,303 - logger - INFO - Student added
+2022-12-23 19:27:25,303 - logger - INFO - Student added
+2022-12-23 19:27:25,303 - logger - INFO - Student added
+2022-12-23 19:27:25,303 - logger - INFO - Student added
+2022-12-23 19:27:25,303 - logger - WARNING - Logging finished
+2022-12-23 19:27:58,315 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:27:58,315 - logger - INFO - Student added
+2022-12-23 19:27:58,315 - logger - INFO - Student added
+2022-12-23 19:27:58,315 - logger - INFO - Student added
+2022-12-23 19:27:58,315 - logger - INFO - Student added
+2022-12-23 19:27:58,316 - logger - WARNING - Logging finished
+2022-12-23 19:28:09,066 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:28:09,066 - logger - INFO - Student added
+2022-12-23 19:28:09,066 - logger - INFO - Student added
+2022-12-23 19:28:09,066 - logger - INFO - Student added
+2022-12-23 19:28:09,066 - logger - INFO - Student added
+2022-12-23 19:28:09,066 - logger - WARNING - Logging finished
+2022-12-23 19:28:23,331 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:28:23,331 - logger - INFO - Student added
+2022-12-23 19:28:23,331 - logger - INFO - Student added
+2022-12-23 19:28:23,331 - logger - INFO - Student added
+2022-12-23 19:28:23,331 - logger - INFO - Student added
+2022-12-23 19:28:23,331 - logger - WARNING - Logging finished
+2022-12-23 19:29:34,534 - logger - WARNING - Started loggin to console and file
+2022-12-23 19:29:34,535 - logger - INFO - Student added
+2022-12-23 19:29:34,535 - logger - INFO - Student added
+2022-12-23 19:29:34,535 - logger - INFO - Student added
+2022-12-23 19:29:34,535 - logger - INFO - Student added
+2022-12-23 19:29:34,535 - logger - WARNING - Logging finished
